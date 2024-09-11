@@ -1,0 +1,195 @@
+
+  *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+.box{
+    background-image: url(WhatsApp\ Image\ 2024-08-05\ at\ 21.03.06_4c5729c4.jpg);
+    width: 100%;
+    height: 590px;
+
+}
+.box1 {
+    background-image: url(WhatsApp\ Image\ 2024-08-05\ at\ 21.03.06_b2b92b89.jpg);
+    width: 100%;
+    height: 590px;
+   
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+.text2{
+  margin-top: 35%;
+  margin-left: 70px;
+}
+
+
+
+
+.box1 p{
+    border: 2px solid white;
+    height: 45px;
+    width:150px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.box2{
+    width: 100%;
+    height: 590px;
+    background-image: url(WhatsApp\ Image\ 2024-08-05\ at\ 21.03.06_85dd2a76.jpg);
+  
+    color: white;
+    display: flex;
+    /* justify-content:flex-end; */
+    flex-direction: column;
+}
+.box2 p{
+    border: 2px solid white;
+    height: 45px;
+    width:150px ;
+    display: flex;
+     justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.text3 {
+    margin-top: 32%;
+    margin-left: 70px;
+}
+
+
+.box3{
+    width: 100%;
+    height: 590px;
+    background-image: url(WhatsApp\ Image\ 2024-08-05\ at\ 21.03.05_be8e3c8b.jpg );
+}
+
+
+
+
+
+
+
+
+
+.sb1 {
+    background-image: url(WhatsApp\ Image\ 2024-08-05\ at\ 21.03.05_be8e3c8b.jpg);
+    height: 590px;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+      /* justify-content: flex-end; */
+      flex-direction: column;
+      
+   
+  
+       
+  }
+  .sb1{
+      color: white;
+     
+
+  }
+  .sb1 p{
+      background-color: transparent;
+      border:2px solid white ;
+      height: 45px;
+      width:150px ;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      cursor: pointer;
+      
+  }
+  
+  .sb2{
+     margin-top: 32%;
+     margin-left: 70px;
+
+  }
+
+
+
+
+
+    .lastbox{
+        height: 70px;
+        width: 100%;
+        background-color: black;
+
+    }
+
+
+
+
+
+
+
+
+
+    
+    .mk {
+        height: 750px;
+        width: 100%;
+        background-image: url(img1.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+    }
+     .mk2 img{
+        width: 280px;
+        margin-top:px;
+       
+    }
+    .mk3{
+        display: flex;
+        justify-content:center;
+        margin-top: -40px;
+        margin-left: 35px;
+        font-size: 12px;
+        gap: 25px;
+        color: white;
+    }
+    .mk4{
+        display: flex;
+        justify-content: flex-end;
+        margin-right: 110px;
+        margin-top:-17px;
+        color: white;
+    }
+    
+    .text4 {
+      margin-top: 30%;
+      margin-left: 70px;
+      color: white;
+
+    }
+    .text4 p{
+        background-color: transparent;
+      border:2px solid white ;
+      height: 45px;
+      width:150px ;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      cursor: pointer;
+    }
+.text4 p:hover{
+    background-color: white;
+    color: black;
+}
+.text2 p:hover{
+    background-color: white;
+    color: black;
+}
+.text3 p:hover{
+    background-color: white;
+    color: black;
+}
+.sb2 p:hover{
+    background-color: white;
+    color: black;
+}    
